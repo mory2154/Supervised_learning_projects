@@ -14,3 +14,6 @@ To this end, we will use the Boston Housing dataset.
 
 ## Project 4: Improving a model with Grid Search
 In this mini-lab, we'll fit a decision tree model to some sample data. This initial model will overfit heavily. Then we'll use Grid Search to find better parameters for this model, to reduce the overfitting.
+
+## Project 5: Diabetes Case Study
+In this mini-lab, we'll try to optimize a number of models using Randomized Grid Searching in this  notebook.
