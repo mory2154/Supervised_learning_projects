@@ -17,3 +17,6 @@ In this mini-lab, we'll fit a decision tree model to some sample data. This init
 
 ## Project 5: Diabetes Case Study
 In this mini-lab, we'll try to optimize a number of models using Randomized Grid Searching in this  notebook.
+
+## Project 6: Find Donors for CharityML
+Find Donors for CharityML with Kaggle: CharityML is a fictitious charity organization that provides financial support. In an effort to improve donor outreach effectiveness, I had to build an algorithm that best identifies potential donors. I evaluated and optimized several different supervised learners (AdaBoost, Decision Tree & Logistic Regression) to determine which algorithm will provide the highest donation yield.
